@@ -1,0 +1,30 @@
+input[type=text]
+{
+    width:100%;
+    padding:12px 20px ;
+    margin:8px 0;
+    display:inline-block;
+    border:1px solid green;
+
+}
+input[type=submit]
+{
+    width:100%;
+    background-color: green;
+    color:rgb(81, 42, 42);
+    margin:8px 0;
+    border:2px solid rgb(12, 11, 11);
+    padding: 14px 20px;
+    border-radius: 4px;
+    
+}
+input[type=submit]:hover
+{
+    background-color:rgb(211, 73, 154);
+}
+div{
+    border-radius:5px;
+    border:1px solid black;
+    padding:20px;
+    background-color: beige;
+}
